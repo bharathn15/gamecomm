@@ -976,7 +976,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   status: {fileID: 667213614}
-  webClientId: 622482298564-rc3aa59ll2qgcatki6ggv47mplodul61.apps.googleusercontent.com
+  webClientId: 
 --- !u!1 &1711183383
 GameObject:
   m_ObjectHideFlags: 0
