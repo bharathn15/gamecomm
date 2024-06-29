@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">622482298564</string>
+  <string name="google_storage_bucket" translatable="false">gamecomm-427818.appspot.com</string>
+  <string name="project_id" translatable="false">gamecomm-427818</string>
+  <string name="google_api_key" translatable="false">AIzaSyCZmaHAAWjwvwfz6WOYLpZLzF-AuY5s_VI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZmaHAAWjwvwfz6WOYLpZLzF-AuY5s_VI</string>
+  <string name="google_app_id" translatable="false">1:622482298564:android:642a8134835b919e019b91</string>
+  <string name="default_android_client_id" translatable="false">622482298564-mf42ktb97f204l3tl5mdtv6vbjsu9o1h.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">622482298564-rc3aa59ll2qgcatki6ggv47mplodul61.apps.googleusercontent.com</string>
+</resources>
